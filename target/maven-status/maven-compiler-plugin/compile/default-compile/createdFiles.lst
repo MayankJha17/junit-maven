@@ -1,0 +1,8 @@
+com/example/junit5/test/dynamic/TranslatorEngine.class
+com/example/junit5/test/basic/HelloWorld.class
+com/example/junit5/test/springboot/Junit5Controller.class
+com/example/junit5/test/disable/StringUtils.class
+com/example/junit5/test/springboot/Application.class
+com/example/junit5/test/assumptions/HolidayService.class
+com/example/junit5/test/nested/BookingService.class
+com/example/junit5/test/assertions/StringUtils.class

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.junit5.test.dynamic.TranslationEngineDynamicTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.016 s <<< FAILURE! - in com.example.junit5.test.dynamic.TranslationEngineDynamicTest
+translateDynamicTestsFromStream[8]  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.IllegalArgumentException: Translated text must not be empty.
+	at com.example.junit5.test.dynamic.TranslationEngineDynamicTest.lambda$translateDynamicTestsFromStream$2(TranslationEngineDynamicTest.java:105)
+

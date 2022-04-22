@@ -1,0 +1,11 @@
+com/example/junit5/test/nested/BookingServiceTest.class
+com/example/junit5/test/disable/StringUtilsDisableClassTest.class
+com/example/junit5/test/assumptions/HolidayServiceTest.class
+com/example/junit5/test/disable/StringUtilsTest.class
+com/example/junit5/test/nested/BookingServiceTest$History.class
+com/example/junit5/test/dynamic/TranslationEngineDynamicTest.class
+com/example/junit5/test/basic/HelloWorldTest.class
+com/example/junit5/test/assertions/StringUtilsTest.class
+com/example/junit5/test/dynamic/TranslatorEngineTest.class
+com/example/junit5/test/springboot/ApplicationTest.class
+com/example/junit5/test/nested/BookingServiceTest$Book.class
